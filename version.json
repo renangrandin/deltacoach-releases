@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.2/DeltaCoachCapture.exe",
-  "notas": "Correção: atualização automática reinicia o app corretamente."
+  "version": "0.1.3",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.3/DeltaCoachCapture.exe",
+  "notas": "Correção: substituição segura do exe no auto-update"
 }
