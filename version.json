@@ -1,6 +1,6 @@
 {
-  "version": "0.1.8",
-  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.8/DeltaCoachCapture.exe",
-  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.8/DeltaCoachUpdater.exe",
-  "notas": "Captura de dados de posição para mapa da pista. Correção do campo Jogo nas sessões."
+  "version": "0.1.9",
+  "download_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.9/DeltaCoachCapture.exe",
+  "updater_url": "https://github.com/renangrandin/deltacoach-releases/releases/download/v0.1.9/DeltaCoachUpdater.exe",
+  "notas": "Captura 30hz, nome do jogo corrigido, setores da pista e dados para mapa do traçado."
 }
